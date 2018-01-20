@@ -1,0 +1,71 @@
+.page-header .navbar .page-logo {
+    float: left;
+    height: 50px;
+    max-height: 50px;
+    line-height: 50px;
+    margin-right: 75px;
+    font-size: 40px;
+    color: #fff;
+}
+.page-content-col.opd{
+	padding-left: 0px;
+}
+/*.form-control.readOn{
+	cursor: no-drop !important;
+}
+.cust-width-2.form-group.form-md-line-input.form-md-floating-label {
+    float: left;
+    width: 10%;
+}*/
+.form-group.form-md-line-input .form-control[readonly]{
+	    border-bottom: 1px solid #c2cad8;
+}
+.som-btn-top{
+	margin-top: 15px;
+}
+.btn-group>.btn:not(.md-skip){
+	box-shadow: none !important;
+}
+.btn.default:not(.btn-outline) {
+    color: #666;
+    background-color: #f7f7f7 !important; 
+    border-color: #eaeaea;
+}
+.input-group.date.date-picker .form-control {
+    border: 1px solid #d8d8d8;
+}
+.remove-btn {
+    padding: 5px !important;
+    border-radius: 0px !important;
+}
+.dr{
+	margin:0px;
+	padding: 0px;
+}
+.dr.portlet.light>.portlet-title {
+    padding: 0;
+    min-height: 0px;
+    border-bottom: 0px !important;
+    margin-bottom: 0px !important;
+}
+.dr>.portlet-title>.caption{
+	padding: 0px !important;
+}
+.portlet-title.dr-bill-view {
+    border: 0px !important;
+}
+.no-shadow.portlet.light.bordered {
+    box-shadow: none !important;
+}
+.store-txt{
+	max-width: 150px;
+}
+.form-group.form-md-line-input.store-total-txt input {
+    padding: 0px !important;
+    margin: 0px !important;
+    height: 28px;
+}
+.form-group.form-md-line-input.store-total-txt {
+    padding: 0px 15px !important;
+    margin: 0px 0px 10px 0px !important;
+}
